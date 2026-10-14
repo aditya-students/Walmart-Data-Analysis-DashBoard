@@ -1,10 +1,7 @@
 # 🛒 **Walmart Market Business Intelligence Dashboard**
 ### **Walmart Canada · Mexico · USA | Power BI**
 
-![Dashboard Preview](images/dashboard-preview.png)
-
-> 📽️ **Demo Video:** I invite you to watch the demo video showcasing the dashboard in action. It highlights the interactive features and shows how data storytelling turns complex data into actionable business insights.
-> **[Watch Demo Video](ADD-YOUR-VIDEO-LINK-HERE)**
+<img width="1092" height="593" alt="Screenshot 2026-10-14 225452" src="https://github.com/user-attachments/assets/e19b24a6-b8a3-4ac9-9986-4116c0789acd" />
 
 ---
 
